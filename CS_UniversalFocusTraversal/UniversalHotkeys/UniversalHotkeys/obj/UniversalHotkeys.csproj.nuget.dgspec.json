@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\CS_UniversalFocusTraversal\\UniversalHotkeys\\UniversalHotkeys\\UniversalHotkeys.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\CS_UniversalFocusTraversal\\UniversalHotkeys\\UniversalHotkeys\\UniversalHotkeys.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\CS_UniversalFocusTraversal\\UniversalHotkeys\\UniversalHotkeys\\UniversalHotkeys.csproj",
+        "projectName": "UniversalHotkeys",
+        "projectPath": "D:\\Programming\\CS_UniversalFocusTraversal\\UniversalHotkeys\\UniversalHotkeys\\UniversalHotkeys.csproj",
+        "packagesPath": "C:\\Users\\Alex Chung\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\CS_UniversalFocusTraversal\\UniversalHotkeys\\UniversalHotkeys\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alex Chung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
